@@ -1,3 +1,3 @@
 # Reet-demo
-This is my first Gift repository  
-Author:Swayamshree
+This is my first Gift repository. 
+Author:Swayamshree Patra
